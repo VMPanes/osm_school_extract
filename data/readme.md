@@ -17,6 +17,6 @@ Total # of IDs not in OSM database: 812
 | National Capital Region | 36 |
 | Northern Mindanao | 62 |
 | Soccsksargen | 51 |
-| Western Visaya | 133 |
+| Western Visayas | 133 |
 | Zamboanga Peninsula | 19 |
 | **Total Result** | 812 |
